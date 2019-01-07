@@ -5,5 +5,8 @@
 
 
 ### Your Code Here ###
+<<<<<<< HEAD
 hoursinayear = 365.25 * 24.0
 puts hoursinayear.to_i
+=======
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

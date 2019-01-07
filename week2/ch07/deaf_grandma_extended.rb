@@ -1,4 +1,5 @@
 puts 'COME GIVE GRANNY A KISS!'
+<<<<<<< HEAD
 bye_counter = 0
 input = gets.chomp
 while (bye_counter < 3) # Fill in the while condition
@@ -16,4 +17,12 @@ elsif input == "BYE"
   puts "HMM..."
   end
 end
+=======
+
+bye_counter = 0
+while () # Fill in the while condition
+  ### Your Code Here ###
+end
+
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab
 puts 'OK SONNY, TALK AGAIN SOON'

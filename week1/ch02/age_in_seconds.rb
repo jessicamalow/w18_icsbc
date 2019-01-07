@@ -5,6 +5,7 @@
 
 
 ### Your Code Here ###
+<<<<<<< HEAD
 # Berkeley founded March 23, 1868 during a leap year with 366 days
 daysofexistancein1868 = 366-82
 yearssinceexistance = 2017-1868
@@ -17,3 +18,5 @@ leapseconds = numberofleapyears * 366 * 24 * 60 * 60
 additionalsecondsfrom1868and2018 = (daysofexistancein1868 + daysofexistancein2018)*24*60*60
 ucbageinseconds = regularseconds+leapseconds+additionalsecondsfrom1868and2018
 puts ucbageinseconds
+=======
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

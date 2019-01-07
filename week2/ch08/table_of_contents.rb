@@ -3,6 +3,7 @@
 line_width = # Set it to a default length you'll use throughout
 title = "Table of Contents"
 
+<<<<<<< HEAD
 ch1 = "Chapter 1: Getting Started"
 ch2 = "Chapter 2: Numbers"
 ch3 = "Chapter 3: Letters"
@@ -34,3 +35,9 @@ chapters.each_with_index do |chap, index|
   puts chap.to_s.ljust(line_width) + " " + pg[index].to_s.rjust(line_width)
 
 end
+=======
+# Depending on your solution, you may use more than one array, but here's one to get you started
+chapters = [] 
+
+### Your Code Here ###
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

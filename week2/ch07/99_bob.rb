@@ -3,6 +3,7 @@
 
 
 ### Your Code Here ###
+<<<<<<< HEAD
 bot = 99
 while bot.to_i > 0
   if bot.to_i > 1
@@ -21,3 +22,5 @@ while bot.to_i > 0
 end
 puts "No more bottles of beer on the wall, no more bottles of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall."
+=======
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

@@ -1,6 +1,7 @@
 # Remember, leap years are divisible by 4, but not by 100 unless also by 400
 
 ### Get input from user: ###
+<<<<<<< HEAD
   puts("Please enter a starting year: ")
 starting = gets.chomp ## FIXME?
 puts("Now enter a ending year: ")
@@ -25,3 +26,11 @@ ending = gets.chomp ## FIXME?
    else
     puts "There is " + leap_counter.to_i.to_s + " leap year" "."
    end
+=======
+print("Please enter a starting year: ")
+starting = gets.chomp ## FIXME?
+print("Now enter a ending year: ")
+ending = gets.chomp ## FIXME?
+
+### Rest of your code here ###
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

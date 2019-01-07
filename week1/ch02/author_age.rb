@@ -5,6 +5,9 @@
 
 
 ### Your Code Here ###
+<<<<<<< HEAD
 #The author was 1,160 million seconds old when the book was published in 2005
 Chrisage = 1160000000.0 * (1.0/3600.0) * (1.0/24.0) * (1.00/365.25)
 puts Chrisage.to_i
+=======
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab

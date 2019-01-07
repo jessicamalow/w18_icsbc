@@ -2,6 +2,7 @@
 
 
 ### Your Code Here ###
+<<<<<<< HEAD
 t = "Table of Contents"
 ch1 = "Chapter 1: Getting Started"
 ch2 = "Chapter 2: Numbers"
@@ -34,3 +35,5 @@ puts ch6.ljust(line_width) + pg6.rjust(line_width)
 puts ch7.ljust(line_width) + pg7.rjust(line_width)
 puts ch8.ljust(line_width) + pg8.rjust(line_width)
 puts ch9.ljust(line_width) + pg9.rjust(line_width)
+=======
+>>>>>>> 7b98ed12eee14b913e2d5707543cc1166c0fd7ab
