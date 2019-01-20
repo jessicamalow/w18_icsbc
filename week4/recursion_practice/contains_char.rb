@@ -1,0 +1,19 @@
+# Don't forget to use s[0] to get the first character
+# and trim_char(s) to get the rest!
+
+def contains_char(string, char)
+  if string.empty?()  # base case
+    return false
+  else
+    if string[0] == char
+      return true
+    else
+      return contains_char(trim_char(string), char) # recursive call
+    end
+  end
+end
+
+
+def trim_char(s)
+  return s[1..-1]
+end
